@@ -2,12 +2,6 @@
 
 I'm Paul Fang, Founder @ irpro.ai | Founder @ Bay Area Founders Club | Computer Networking Ph.D.
 
-JOIN US (120+ Startups,80+ VCs)
-Bay Area Founders Club: https://bayareafoundersclub.com
-Twitter: https://twitter.com/PaulFangBayArea
-Telegram: https://t.me/PaulFangBayArea
-All my links: https://linktr.ee/paulfang
-
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PaulFangBayArea)](https://twitter.com/PaulFangBayArea)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulfang@bayareaweb3.com)](mailto:paulfang@bayareaweb3.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PaulFangBayArea)](https://github.com/PaulFangBayArea)
@@ -17,6 +11,8 @@ All my links: https://linktr.ee/paulfang
 ## 🧐 About
 
 - 📫 How to reach me: paulfang@bayareaweb3.com
+- Bay Area Founders Club: https://bayareafoundersclub.com
+- All my links: https://linktr.ee/paulfang
 - 🌱 Languages and Tools: 
 
 <p align="center">
