@@ -5,7 +5,6 @@ I'm Paul Fang, Founder @ irpro.ai | Founder @ Bay Area Founders Club | Computer 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/PaulFangBayArea)](https://twitter.com/PaulFangBayArea)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulfang@bayareaweb3.com)](mailto:paulfang@bayareaweb3.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PaulFangBayArea)](https://github.com/PaulFangBayArea)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=PaulFangBayArea)
 
 
 ## 🧐 About
